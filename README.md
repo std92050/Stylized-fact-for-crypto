@@ -9,3 +9,5 @@
 ```data_processing```: further processing of data (remove glitch, resemple, labeling) 
 
 ```plot```: draw the resulting plots (pdf,cdf,acf,cross correlation etc) from data
+
+```Stylized_fact```: for presentation
